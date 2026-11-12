@@ -19,6 +19,7 @@ android {
         applicationId = "com.example.complementaria3"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
+        // El plugin de cámara en Android requiere minSdk 21 o superior
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         // Uses the version code from pubspec.yaml. When using split APKs, 1000 * ABI_VERSION

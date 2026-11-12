@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  camera: ^0.11.0+2
+  file_saver: ^0.2.14
 
 dev_dependencies:
   flutter_test:
